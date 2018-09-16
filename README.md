@@ -490,7 +490,7 @@ plt.show()
 ```
 
 
-https://github.com/jherronplahn/matplotlib-pyber/blob/master/Pyber/pyberdatascatter.png
+![png](Pyber/pyberscatter.png)
 
 
 ## Total Fares by City Type
